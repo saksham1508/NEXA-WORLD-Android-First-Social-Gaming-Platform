@@ -1,0 +1,6 @@
+{
+  "name": "Nexa World",
+  "description": "Original Android-first social gaming platform featuring avatar customization, Nexus City social hub, real-time Cyber Arena battles, squads, progression, and creator ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
